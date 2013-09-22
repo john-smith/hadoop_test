@@ -1,1 +1,3 @@
 target/*
+src/main/resources/mahout/*
+!src/main/resources/mahout/intro.csv
